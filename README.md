@@ -38,13 +38,10 @@ The dataset used for this project is sourced from [Kaggle](https://www.kaggle.co
 
 We used various machine learning algorithms to identify lung cancer, including:
  - Random Forest Algorithm
- - Decision Tree Algorithm
  - Support Vector Machine
- - Logistic Regression 
- - K-Nearest Neighbors
- - Naive Bayes
+ - Logistic Regression
  - XGBoost Classifier
- - Gradient Boosting Classifier
+
  
 
 
@@ -54,14 +51,10 @@ The results section provides a detailed comparison of the performance of each mo
 Below is a summary of the accuracy results for each model:
 
 | Algorithm                       | Accuracy (%) |
-|---------------------------------|--------------|
-| Decision Tree Classifier        | 91.07        |
-| Logistic Regression             | 91.07        |
-| Naive Bayes                     | 91.07        |
-| XGBoost Classifier              | 87.50        |
-| Gradient Boosting Classifier    | 87.50        |
-| Random Forest Classifier        | 85.71        |
-| K-Nearest Neighbors (KNN)       | 85.71        |
+|---------------------------------|--------------|        |
+| Logistic Regression             | 91.07        |   |
+| XGBoost Classifier              | 87.50        |       |
+| Random Forest Classifier        | 85.71        |       |
 | Support Vector Machine (SVM)    | 83.93        |
 
 ## Acknowledgements
